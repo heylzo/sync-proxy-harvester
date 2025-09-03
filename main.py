@@ -1,12 +1,3 @@
-# ============================================================
-# Lzo Proxy Harvester
-# Author: heylzo (https://github.com/heylzo)
-# License: MIT
-# Description:
-#   Collects public SOCKS5 proxies, verifies them, and exports
-#   working results to text/json files. Optionally sends results
-#   to a Discord channel with formatted embeds.
-# ============================================================
 import os
 import socket
 import asyncio
