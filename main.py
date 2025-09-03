@@ -1,3 +1,8 @@
+# Sync Proxy Harvester
+# Author: heylzo (https://github.com/heylzo)
+# Contributors: basam999, Ryu-Dev-Here
+# License: MIT
+# Initial Release 2025
 import os
 import socket
 import asyncio
